@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pent 2.0", "Pent 2.0\Pent 2.0.csproj", "{56412265-4C21-4C82-905C-785AADDE7E94}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Pente 2.0", "Pente 2.0\Pente 2.0.aiproj", "{881186C2-6384-45EF-BDBE-F49250CA34AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56412265-4C21-4C82-905C-785AADDE7E94}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{56412265-4C21-4C82-905C-785AADDE7E94}.All|Any CPU.Build.0 = Release|Any CPU
+		{56412265-4C21-4C82-905C-785AADDE7E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56412265-4C21-4C82-905C-785AADDE7E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56412265-4C21-4C82-905C-785AADDE7E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56412265-4C21-4C82-905C-785AADDE7E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881186C2-6384-45EF-BDBE-F49250CA34AF}.All|Any CPU.ActiveCfg = DefaultBuild
+		{881186C2-6384-45EF-BDBE-F49250CA34AF}.All|Any CPU.Build.0 = DefaultBuild
+		{881186C2-6384-45EF-BDBE-F49250CA34AF}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{881186C2-6384-45EF-BDBE-F49250CA34AF}.Debug|Any CPU.Build.0 = DefaultBuild
+		{881186C2-6384-45EF-BDBE-F49250CA34AF}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{881186C2-6384-45EF-BDBE-F49250CA34AF}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B16C91A-2BD6-44E4-A0F0-CA859E3502EE}
+	EndGlobalSection
+EndGlobal
